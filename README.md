@@ -70,4 +70,4 @@ Please refer to the main document for detailed analysis and recommendations.
 ## Repository Reference
 
 Zingg GitHub Repository:  
-https://github.com/zinggAI/zingg
+[https://github.com/zinggAI/zingg](https://github.com/pintukrgupta/zingg-labeller-design-review)
